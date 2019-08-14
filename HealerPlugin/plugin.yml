@@ -1,0 +1,8 @@
+name: HealerPlugin
+main: me.quinn.healerplugin.Main
+version: 1.0
+author: Quinn
+commands: 
+  hbook: 
+    description: Spawn a healing book
+    usage: /hbook

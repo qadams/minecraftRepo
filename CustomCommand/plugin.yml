@@ -1,0 +1,11 @@
+name: CustomCommand
+main: me.quinn.customcommand.Main
+version: 1.0
+author: Quinn
+commands: 
+  hello: 
+    description: Basic command that "Hello" to the player who sends it 
+    usage: /hello
+  gotospawn:
+    description: Teleport player to spawn 
+    usage: /gotospawn
